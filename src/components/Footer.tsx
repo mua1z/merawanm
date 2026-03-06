@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
 
           <div className="lg:col-span-2 space-y-4">
             <div className="flex items-center gap-3 mb-6">
-              <span className="font-black text-2xl tracking-tight">Merawan Mohammed</span>
+              <span className="font-black text-2xl tracking-tight">Merawan Mohammedf</span>
             </div>
             <p className="text-blue-200 text-sm leading-relaxed max-w-md">
               Official Leadership Portfolio for Merawan Mohammed, serving as a dedicated Woreda Administration Officer in Ethiopia.
